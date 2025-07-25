@@ -1,0 +1,7 @@
+fastapi[all]
+sqlalchemy
+psycopg2-binary
+passlib
+python-jose
+flask
+psycopg2-binary
